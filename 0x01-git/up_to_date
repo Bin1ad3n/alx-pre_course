@@ -1,2 +1,1 @@
-rm -r alx-pre_course
-git clone https://{My Personal Token}@github.com/{My Username}/alx-pre_course.git
+git pull origin master
